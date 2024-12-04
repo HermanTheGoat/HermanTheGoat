@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HermanTheGoat
 - 👀 I’m interested in coding things
-- 🌱 I’m currently learning html, css, php, c#, c++,
+- 🌱 I’m currently learning html, css, php, c#, c++, js
 - 💞️ I’m looking to collaborate on Assingments
 - 📫 How to reach me (not)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: dont have 1 
 
 <!---
